@@ -1,2 +1,2 @@
-print("Hello team VIetHung!")
+print("Hello team VIet!")
 print("Test GitHub push and pull")
